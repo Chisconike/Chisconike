@@ -2,7 +2,7 @@
 - 👀 I’m interested in HTML, CSS, JavaScript, Python, C++, etc...
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on anyone
-- 📫 How to reach me Email: chinedue856@gmail.com, Facebook: @chisconike, Instagram: @chisco_Emmanuel, Twitter: @chisconike, LinkedIn: www.linkedin.com/in/emmanuelokohc
+- 📫 How to reach me Email: chinedue856@gmail.com, Facebook: @chisconike, Instagram: @chisco_Emmanuel, Twitter: @chisconike, LinkedIn: https://www.linkedin.com/in/okoh-emmanuel-chinedu/
 
 <!---
 Chisconike/Chisconike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
